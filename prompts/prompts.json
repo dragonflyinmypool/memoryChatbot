@@ -1,0 +1,4 @@
+{
+    "summarize": "Please summarize the following text file. The purpose of the summary: This summary will be placed in a log file. A bot will then read the log file and see if it needs the full file when answering a user query. Keep it very concise (4 sentences or less): ",
+    "update": "You will be assisting me with my notebook ai app. Which includes a log and a state file which is fed into a chat bot. A new note has been written (see below). Your job is to decide whether the current state json file should be updated (or not) based on the provided new note and current state json file. You can only update state for properties that exist and not create new propoties. If an update is needed, provide the path to the property to be updated and the new value in JSON format: { \\\"shouldUpdate\\\": true/false, \\\"path\\\": \\\"...\\\", \\\"value\\\": ... }  Here is the note: "
+}

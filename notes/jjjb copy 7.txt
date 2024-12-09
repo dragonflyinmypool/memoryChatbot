@@ -1,0 +1,173 @@
+Update
+Software Project Tracking
+What’s Been Improved:
+Easier Posting: Projects are now simpler to log.
+Acknowledgement by Stratten/Baobab: Ensures that tasks are recognized and visible so we know they are being addressed.
+Time Estimation: Tracks how long tasks are expected to take and lets us check if they are being handled on schedule.
+Categorization: Projects are grouped as "Issue," "Feature," or "Project" to prioritize issues and allow anyone to quickly understand the tracker at a glance.
+
+
+
+
+
+Stratten’s Team Commitment
+Why are projects taking so long? How can we speed it up? Number of hours are you dedicating to CC?
+Weekly allocation of 15 hours for $1,700 (including Baobab’s team) translates to:
+Hourly: ~$110
+Monthly: $7,200
+Yearly: ~$86,000 (for less than half-time)
+Would benefit from pre-planning down by our team (send him over the detailed info)
+Other Baobab employees are not very helpful / seem like a waste of time..
+Conclusion: limited hours, limited headspace => long term should move away from Stratten. But step by step. For now he is reliable and knowledgeable.
+
+
+
+Role Differentiation: SF Admin vs. Developer
+It’s important to separate these two roles, though they can sometimes overlap:
+Admin:
+Permissions & Security: Essential to avoid errors and protect sensitive data. Currently, everyone is set as a system admin, which is risky and needs fixing immediately.
+Page Layouts: Adjust layouts (e.g., accounts, services, opportunities) to suit specific department needs.
+Reports & Dashboards: Create and optimize them for better clarity and insight.
+Database Cleaning: Ensure data accuracy, remove duplicates, and document usage.
+Automation: Use Flows to streamline repetitive tasks.
+Staff Training: Train team members to use Salesforce effectively.
+Day-to-Day Support: Resolve user issues and enhance workflows as needed.
+General Admin Work:
+Google Workspace: Manage permissions and settings.
+QuickBooks: Handle roles and access control.
+Other tools as required.
+Developer:
+Troubleshoot and refine custom software.
+Build new features and workflows.
+Integrate Salesforce with tools like QuickBooks and other external platforms.
+
+
+Next steps
+Take Over Admin Role:
+Focus on tasks that don’t require Stratten’s direct involvement, such as permissions, page layouts, and optimization.
+Run all changes by Stratten to ensure alignment with his work.
+Establish Permissions and Security:
+Restrict access to critical settings in Salesforce (e.g., database, user roles).
+Create profile-based permissions for different departments (e.g., Sales, Finance, Support).
+Permission and security for other accounts:
+Google Drive: Create departmental folders with access restricted to relevant teams (e.g., finance-only folders for management and finance staff).
+QuickBooks: Review and adjust user roles, limiting access to sensitive features like adding/removing users.
+Database Audits and Cleanup:
+Go over each object => who is the "owner" what is it used for, keep a list.
+What connections are made.
+Document usage, identify outdated information, and clean up databases across platforms.
+Standardize and streamline information for better efficiency.
+Optimize Salesforce based on newly created profiles:
+Improving page layouts, 
+Reports 
+Dashboards
+Plan for Long-Term Efficiency:
+Gradually reduce reliance on Stratten for admin tasks, freeing him to focus on development.
+Maintain transparency by running admin changes by Stratten to avoid conflicts with his work.
+
+
+
+Additional Suggestions
+Weekly Check-Ins: Regular phone or in-person updates to ensure alignment and handle bottlenecks.
+Improve Collaboration Tools:
+Use Google Chat for team discussions (threads, spaces, notifications) while keeping email and Salesforce Chatter for task-specific communication.
+Reassign Office Tasks:
+Have someone like Berach take over office supply management from Adele, as she’s remote and already overloaded.
+Support for Natan:
+Consider a part-time assistant bookkeeper to give Natan more control and oversight over finance.
+Can you ask Charles if he needs the google drive that he shares with Jennifer created in 2021
+Bleona Nimani, "crown care" & "account manager" on google drive
+
+Reference
+Current roles:
+
+
+
+Profile breakdown:
+
+
+
+Department
+Point of contact
+2
+3
+4
+Sales
+Mo
+Issac
+
+
+
+
+Onboarding
+Ben
+Bleona
+Gitty
+
+
+Support
+Tom
+Rachel
+
+
+
+
+Finance
+Natan
+Berach
+Accountant
+
+
+Invoicing
+Adele
+Micha
+Marry
+
+
+Collections
+Marissa
+Mindy
+
+
+
+
+Trash
+Toby
+Issac
+
+
+
+
+Management
+Harry
+Juda
+Charles
+
+
+Admin
+Stratten
+Akinwunmi
+Jamie
+Juda
+
+
+
+
+
+
+
+
+
+
+
+
+Crown Care's database connections: 
+
+
+
+Page layout editor:
+
+
+
+
+
